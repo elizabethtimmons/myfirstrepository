@@ -2,7 +2,7 @@
 
 Here is some text.
 
-Let's make a link to Wikipedia. [Wikipedia](http://wikipedia.org/)
+Let's make a link to [Wikipedia](http://wikipedia.org/).
 
 Picture ![This is the alt text](http://placekitten.com/300/400)
 
@@ -17,8 +17,11 @@ Things I like to do during quarentine:
 My plans for the weekend are to:
 
 1. Apply to jobs.
-2. Apply to jobs.
+2. Call the recruiter.
+3. Update my resume on Illustrator.
 
 | Pie name | Number of pies|
 |----------|---------------|
-| Cherry   | 12            |
+| Cherry   | 3442          |
+| Apple    | 2112          |
+| Pumpkin  | 1234          |
